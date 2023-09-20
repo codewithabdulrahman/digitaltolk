@@ -22,6 +22,7 @@ Code to write tests (optional)
 What I expect in your repo:
 
 X. A readme with:   Your thoughts about the code. What makes it amazing code. Or what makes it ok code. Or what makes it terrible code. How would you have done it. Thoughts on formatting, structure, logic.. The more details that you can provide about the code (what's terrible about it or/and what is good about it) the easier for us to assess your coding style, mentality etc
+The code showcases clear intentions and readability. Nevertheless, it exhibits code repetition, lacks proper error handling, and could make better use of constants and Laravel's timestamp features. I have tried to Refactor the code to reduce redundancy and enhance maintainability.
 
 And 
 
